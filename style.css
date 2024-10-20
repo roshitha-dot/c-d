@@ -1,0 +1,37 @@
+.container{
+	padding: 20px 50px;
+}
+
+.row{
+	display: flex;
+	justify-content: center;
+	margin-top: 20px; 
+}
+
+#amount{
+	margin-left: 10px;
+	border-radius: 5px;
+}
+
+.buttons{
+	justify-content: space-around;
+}
+
+.btn{
+	width: auto;
+	background-color: #089ef5;
+	color: #fff;
+	border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+	font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+	cursor: pointer;
+}
+body{
+    background-color: palevioletred;
+}
